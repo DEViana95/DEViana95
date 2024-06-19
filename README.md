@@ -1,5 +1,12 @@
 ## Bem vindo ao meu COVIL 🔥💀🔥
 
+#### Top Technologies
+
+[![C# Badge](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)](#) [![Dotnet Badge](	https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)](#) 
+
+#### Top SGBD's
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)](#) [![MariaDB Badge](https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge)](#) [![SQLServer Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)](#)
+
 ### My stats ⭐
 
 <div align="center">
