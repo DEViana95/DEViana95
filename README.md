@@ -15,4 +15,4 @@
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/DEViana95)
+[![DEViana95 profile views](https://u8views.com/api/v1/github/profiles/172691594/views/day-week-month-total-count.svg)](https://u8views.com/github/DEViana95)
