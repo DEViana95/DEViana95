@@ -10,8 +10,8 @@
 ### My stats ⭐
 
 <div align="center">
-<img alt="DEViana95 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DEViana95&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEViana95&layout=compact&&langs_count=8"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DEViana95&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DEViana95&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ### Profile views counter 👁️‍🗨️
