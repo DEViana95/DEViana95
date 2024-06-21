@@ -1,11 +1,19 @@
 ## Bem vindo ao meu COVIL 🔥💀🔥
 
-#### Top Technologies
+#### Top Languages
 
-[![C# Badge](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)](#) [![Dotnet Badge](	https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)](#) 
+[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)](#) 
+
+#### Top Libraries & Framework's
+[![Dotnet Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+)](#) [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](#) 
+
 
 #### Top SGBD's
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)](#) [![MariaDB Badge](https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge)](#) [![SQLServer Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)](#) [![MariaDB Badge](https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge)](#)
+
+#### Tools
+[![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Dbeaver Badge](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](#)
 
 ### My stats ⭐
 
